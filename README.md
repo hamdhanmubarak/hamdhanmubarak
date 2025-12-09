@@ -8,7 +8,7 @@
 - 📊 Skilled in **SQL, Python (Pandas, NumPy), Power BI, Tableau, Excel**  
 - 📚 Currently mastering: Web Scraping, Statistics, Machine Learning basics  
 - 💼 Looking for: **Data Analyst / Business Analyst roles**  
-- ✉️ Reach me at: **your-email@gmail.com**
+- ✉️ Reach me at: **hamdhan.mubarak.21@gmail.com**
 
 ---
 
